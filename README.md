@@ -1,14 +1,72 @@
-<h1 align="center">Hola, soy Alejo</h1>
-<h3 align="center">Estudiante de computación</h3>
+<h1 align="center">👋 Hola, soy Alejo Guerra</h1>
+<h3 align="center">💻 Estudiante de computación | Backend Developer</h3>
 
-- Estoy trabajando en [Acisum](https://github.com/Santino7537/Acisum)
-
-- Como contactarme: **guerra.alejoet36@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejo-guerra-inf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejo-guerra-inf/" height="30" width="40" /></a>
+<p align="center">
+Apasionado por el desarrollo de software y sistemas.<br>
+Enfocado en backend y en la creación de herramientas prácticas.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Sobre mí
+- 🔭 Actualmente trabajando en:  
+  👉 <a href="https://github.com/Santino7537/Acisum">Acisum</a>
+
+- 🧠 Tecnologías principales: **Java, JavaScript, Python**
+
+- 📫 Contacto:  
+  👉 **guerra.alejoet36@gmail.com**
+
+---
+
+## 🌐 Conectá conmigo
+<p align="left">
+<a href="https://www.linkedin.com/in/alejo-guerra-inf/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,mysql,react,html,css,git,postman,figma,c,arduino,unity" />
+</p>
+
+---
+
+## 📊 Estadísticas
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlejoGuerraa&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Actividad
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AlejoGuerraa&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Proyectos Destacados
+- 🔍 **IPVision**  
+  Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de datos.
+
+- 📚 **NextRead** *(en desarrollo)*  
+  Aplicación para mejorar la experiencia de lectura.
+
+---
+
+## 🎯 Objetivo
+Seguir creciendo en backend, redes y diseño de software, aplicando buenas prácticas y tecnologías modernas, mientras aporto valor en proyectos reales.
+
+---
+
+<p align="center">
+⭐ Siempre aprendiendo y construyendo
+</p>
