@@ -1,15 +1,5 @@
 ![Header](./github-header-banner.png)
 
-<h1 align="center"> Hola, soy Alejo Guerra</h1>
-<h3 align="center">💻 Estudiante de computación | Backend Developer</h3>
-
-<p align="center">
-Apasionado por el desarrollo de software y sistemas.<br>
-Enfocado en backend y en la creación de herramientas prácticas.
-</p>
-
----
-
 ##  Sobre mí
 - Actualmente trabajando en:  
    <a href="https://github.com/Santino7537/Acisum">Acisum</a>
