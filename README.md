@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hola, soy Alejo Guerra</h1>
+![Header](./your-header-image-name.png)
+
+<h1 align="center"> Hola, soy Alejo Guerra</h1>
 <h3 align="center">💻 Estudiante de computación | Backend Developer</h3>
 
 <p align="center">
@@ -36,14 +38,7 @@ Enfocado en backend y en la creación de herramientas prácticas.
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlejoGuerraa&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## Actividad
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AlejoGuerraa&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
