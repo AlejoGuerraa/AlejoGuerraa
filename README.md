@@ -1,62 +1,94 @@
 ![Header](./github-header-banner.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Student+of+Computer+Science;Building+useful+software" />
+</p>
+
+---
+
 ## Sobre mí
 
-Soy estudiante de computación enfocado en el desarrollo backend y la construcción de herramientas prácticas. Me interesa trabajar con sistemas, redes y procesamiento de datos, aplicando buenas prácticas y diseñando soluciones claras y escalables.
+Soy estudiante de computación enfocado en backend y desarrollo de sistemas. Me interesa construir herramientas prácticas, trabajar con redes y procesar datos de forma eficiente.
 
-Actualmente desarrollo proyectos propios donde combino lógica, arquitectura y experiencia de usuario, mientras sigo ampliando mis conocimientos en tecnologías modernas.
+Actualmente desarrollo proyectos propios donde priorizo código claro, escalabilidad y soluciones reales.
 
-- Actualmente trabajando en:  
-  <a href="https://github.com/Santino7537/Acisum">Acisum</a>
-
-- Tecnologías principales: Java, JavaScript, Python
-
-- Contacto:  
-  guerra.alejoet36@gmail.com
+<p>
+- Actualmente trabajando en: <a href="https://github.com/Santino7537/Acisum">Acisum</a><br>
+- Tecnologías principales: Java, JavaScript, Python<br>
+- Contacto: guerra.alejoet36@gmail.com
+</p>
 
 ---
 
 ## Tech Stack
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">Lenguajes</h3>
 <p align="center">
-
-<b>Lenguajes</b><br>
-<img src="https://skillicons.dev/icons?i=java,js,python,c&perline=8" />
-
-<br><br>
-
-<b>Backend</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" />
-
-<br><br>
-
-<b>Base de datos</b><br>
-<img src="https://skillicons.dev/icons?i=mysql&perline=8" />
-
-<br><br>
-
-<b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=html,css,react&perline=8" />
-
-<br><br>
-
-<b>Herramientas</b><br>
-<img src="https://skillicons.dev/icons?i=git,postman,figma&perline=8" />
-
-<br><br>
-
-<b>Otros</b><br>
-<img src="https://skillicons.dev/icons?i=arduino,unity&perline=8" />
-
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
 </p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Backend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Base de datos</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Herramientas</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,postman,figma" />
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Otros</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,unity" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=AlejoGuerraa&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejoGuerraa&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -69,28 +101,40 @@ Actualmente desarrollo proyectos propios donde combino lógica, arquitectura y e
 
 ---
 
-## Proyectos Destacados
+## Proyectos
 
-- **NextRead** (en desarrollo)  
-  Aplicación para mejorar la experiencia de lectura.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-  <p align="center">
-    <img src="./nextread.png" width="45%" />
-    <img src="./nextread2.png" width="45%" />
-  </p>
+### NextRead  
+Aplicación para mejorar la experiencia de lectura.
 
-- **IPVision**  
-  Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de datos.
+<p align="center">
+  <img src="./nextread.png" width="90%" /><br>
+  <img src="./nextread2.png" width="90%" />
+</p>
 
-  <p align="center">
-    <img src="./ipvision.png" width="45%" />
-    <img src="./ipvision2.png" width="45%" />
-  </p>
+</td>
+
+<td width="50%" valign="top">
+
+### IPVision  
+Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de datos.
+
+<p align="center">
+  <img src="./ipvision.png" width="90%" /><br>
+  <img src="./ipvision2.png" width="90%" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Objetivo
 
-Seguir creciendo en backend, redes y diseño de software, profundizando en arquitectura y buenas prácticas, mientras participo en proyectos que generen impacto real.
+Seguir creciendo en backend, redes y diseño de software, profundizando en arquitectura y buenas prácticas, mientras participo en proyectos con impacto real.
 
 ---
