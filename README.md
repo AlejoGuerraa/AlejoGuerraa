@@ -58,15 +58,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" />
 </td>
-
-<td width="50%">
-<img src="https://github-readme-streak-stats.demolab.com?user=AlejoGuerraa&theme=tokyonight" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -79,11 +73,16 @@
 ---
 
 ## Proyectos Destacados
-- **IPVision**  
-  Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de datos.
 
 - **NextRead** (en desarrollo)  
   Aplicación para mejorar la experiencia de lectura.
+
+  <img src="./nextread.png" height="30" width="40" />
+
+- **IPVision**  
+  Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de datos.
+
+  <img src="./ipvision.png" height="30" width="40" />
 
 ---
 
