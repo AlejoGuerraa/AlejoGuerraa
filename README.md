@@ -74,12 +74,18 @@
 - **NextRead** (en desarrollo)  
   Aplicación para mejorar la experiencia de lectura.
 
-  <img src="./nextread.png" height="30" width="40" />
+  <p>
+    <img src="./nextread.png" width="45%" />
+    <img src="./nextread2.png" width="45%" />
+  </p>
 
 - **IPVision**  
   Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de datos.
 
-  <img src="./ipvision.png" height="30" width="40" />
+  <p>
+    <img src="./ipvision.png" width="45%" />
+    <img src="./ipvision2.png" width="45%" />
+  </p>
 
 ---
 
