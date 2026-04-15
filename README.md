@@ -11,15 +11,6 @@
 
 ---
 
-## Conectá conmigo
-<p>
-<a href="https://www.linkedin.com/in/alejo-guerra-inf/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
 ## Tech Stack
 
 <table>
@@ -58,9 +49,15 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" />
 </td>
+
+<td width="50%">
+<img src="https://github-readme-streak-stats.demolab.com?user=AlejoGuerraa&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 ---
 
