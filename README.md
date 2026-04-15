@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 <h1 align="center"> Hola, soy Alejo Guerra</h1>
 <h3 align="center">💻 Estudiante de computación | Backend Developer</h3>
