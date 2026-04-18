@@ -8,12 +8,10 @@
 
 ## Sobre mí
 
-Soy estudiante de computación enfocado en backend y desarrollo de sistemas. Me interesa construir herramientas prácticas, trabajar con redes y procesar datos de forma eficiente.
-
-Actualmente desarrollo proyectos propios donde priorizo código claro, escalabilidad y soluciones reales.
+Soy estudiante de computación enfocado en backend y desarrollo de sistemas. Me interesa construir herramientas prácticas y sociales
 
 <p>
-- Actualmente trabajando en: <a href="https://github.com/Santino7537/Acisum">Acisum</a> y <a href="https://github.com/Renaaa189/TuBuffet">TuBuffet</a> <br>
+- Actualmente trabajando en: <a href="https://github.com/Santino7537/Knowbeat">Knowbeat</a> y <a href="https://github.com/Renaaa189/TuBuffet">TuBuffet</a> <br>
 - Tecnologías principales: Java, JavaScript, Python<br>
 - Contacto: guerra.alejoet36@gmail.com
 </p>
