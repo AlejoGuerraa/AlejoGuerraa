@@ -20,73 +20,71 @@ Soy estudiante de computación enfocado en backend y desarrollo de sistemas. Me 
 
 ## Tech Stack
 
-<table width="100%">
+<p align="center">
+<table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="200">
 
-<h3 align="center">Lenguajes</h3>
-<p align="center">
+<h3>Lenguajes</h3>
 <img src="https://skillicons.dev/icons?i=java,js,python,c" />
-</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="200">
 
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="200">
 
-<h3 align="center">Base de datos</h3>
-<p align="center">
+<h3>Base de datos</h3>
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="200">
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3>Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="200">
 
-<h3 align="center">Herramientas</h3>
-<p align="center">
+<h3>Herramientas</h3>
 <img src="https://skillicons.dev/icons?i=git,postman,figma" />
-</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="200">
 
-<h3 align="center">Otros</h3>
-<p align="center">
+<h3>Otros</h3>
 <img src="https://skillicons.dev/icons?i=arduino,unity" />
-</p>
 
 </td>
 </tr>
 </table>
+</p>
 
 ---
 
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejoGuerraa&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight" height="160"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlejoGuerraa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
+</p>
+
+---
+
+## Racha
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=AlejoGuerraa&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
 ---
