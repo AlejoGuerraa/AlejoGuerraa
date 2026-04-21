@@ -89,15 +89,6 @@ Soy estudiante de computación enfocado en backend y desarrollo de sistemas. Me 
 
 ---
 
-## Proyectos en los que colaboré
-
-<p align="center">
-<a href="https://github.com/Santino7537/Knowbeat">Knowbeat</a> → Backend & lógica <br>
-<a href="https://github.com/Renaaa189/TuBuffet">TuBuffet</a> → Sistema completo
-</p>
-
----
-
 ## Proyectos
 
 <table>
@@ -128,23 +119,6 @@ Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de 
 </tr>
 </table>
 
----
-
-## Dev Insight
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlejoGuerraa/AlejoGuerraa/output/snake.svg" />
-</p>
-
----
 
 ## 
 
