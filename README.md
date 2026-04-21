@@ -128,11 +128,3 @@ Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de 
 </td>
 </tr>
 </table>
-
----
-
-## Objetivo
-
-Seguir creciendo en backend, redes y diseño de software, profundizando en arquitectura y buenas prácticas, mientras participo en proyectos con impacto real.
-
----
