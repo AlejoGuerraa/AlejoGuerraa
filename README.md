@@ -75,7 +75,6 @@ Soy estudiante de computación enfocado en backend y desarrollo de sistemas. Me 
 ## Estadísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlejoGuerraa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGuerraa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
 </p>
 
@@ -123,5 +122,5 @@ Herramienta de análisis de redes: escaneo de IPs, monitoreo y procesamiento de 
 ## 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Backend+Developer;Computer+Science+Student;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Estudiante+de+computación;Python;Javascript" />
 </p>
