@@ -8,11 +8,13 @@ Computer Science student focused on backend development and system design.
 Interested in building practical and scalable applications with real-world impact.
 
 - 🔭 Currently working on:  
-  [Knowbeat](https://github.com/Santino7537/Knowbeat) • 
+  [Knowbeat](https://github.com/Santino7537/Knowbeat) <br> 
   [TuBuffet](https://github.com/Renaaa189/TuBuffet)
 
-- 💻 Main technologies: Java, JavaScript, Python  
-- 📫 Contact: guerra.alejoet36@gmail.com  
+- <strong>Main technologies</strong>: Java, JavaScript, Python  
+- <strong>Contact</strong>: [Contact](mailto:guerra.alejoet36@gmail.com)
+- <strong>Linkedin</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
+- <strong>Portfolio</strong>: https://alejoguerraa.github.io/
 
 ---
 
@@ -20,10 +22,55 @@ Interested in building practical and scalable applications with real-world impac
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c,nodejs,express,mysql,react,html,css,git,postman,figma,arduino,unity" />
+<table>
+<tr>
+<td align="center" width="200">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+
+</td>
+
+<td align="center" width="200">
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td>
+
+<td align="center" width="200">
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</td>
+
+<td align="center" width="200">
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,postman,figma" />
+
+</td>
+
+<td align="center" width="200">
+
+### Additional
+<img src="https://skillicons.dev/icons?i=arduino,unity" />
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## Projects
@@ -64,10 +111,4 @@ Network analysis tool for IP scanning and monitoring.
   <img src="https://raw.githubusercontent.com/AlejoGuerraa/AlejoGuerraa/output/pacman-contribution-graph.svg" />
 </p>
 
----
 
-## 
-
-<p align="center">
-  <b>Building systems, learning by doing.</b>
-</p>
