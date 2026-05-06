@@ -7,12 +7,12 @@
 Computer Science student focused on backend development and system design.  
 Interested in building practical and scalable applications with real-world impact.
 
-- 🔭 Currently working on:  
-  [Knowbeat](https://github.com/Santino7537/Knowbeat) <br> 
-  [TuBuffet](https://github.com/Renaaa189/TuBuffet)
+- Currently working on:  
+  - [Knowbeat](https://github.com/Santino7537/Knowbeat) - Social & learning music app <br> 
+  - [TuBuffet](https://github.com/Renaaa189/TuBuffet) - Mobile and web app for food commerces at schools
 
 - <strong>Main technologies</strong>: Java, JavaScript, Python  
-- <strong>Contact</strong>: [Contact](mailto:guerra.alejoet36@gmail.com)
+- <strong>Contact</strong>: [guerra.alejoet36@gmail.com](mailto:guerra.alejoet36@gmail.com)
 - <strong>Linkedin</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
 - <strong>Portfolio</strong>: https://alejoguerraa.github.io/
 
@@ -73,7 +73,7 @@ Interested in building practical and scalable applications with real-world impac
 </div>
 ---
 
-## Projects
+## Main projects
 
 <table>
 <tr>
