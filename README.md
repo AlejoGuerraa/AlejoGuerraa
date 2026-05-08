@@ -2,23 +2,23 @@
 
 ---
 
-## About Me
+## Sobre mí
 
-Computer Science student focused on backend development and system design.  
-Interested in building practical and scalable applications with real-world impact.
+Estudiante de Informática enfocado en desarrollo backend y diseño de sistemas.  
+Interesado en construir aplicaciones prácticas y escalables con impacto real.
 
-- Currently working on:  
-  - [Knowbeat](https://github.com/Santino7537/Knowbeat) - Social & learning music app <br> 
-  - [TuBuffet](https://github.com/Renaaa189/TuBuffet) - Mobile and web app for food commerces at schools
+- Actualmente trabajando en:  
+  - [Knowbeat](https://github.com/Santino7537/Knowbeat) - Aplicación social y educativa de música <br> 
+  - [TuBuffet](https://github.com/Renaaa189/TuBuffet) - Aplicación móvil y web para comercios de comida en escuelas
 
-- <strong>Main technologies</strong>: Java, JavaScript, Python  
-- <strong>Contact</strong>: [guerra.alejoet36@gmail.com](mailto:guerra.alejoet36@gmail.com)
-- <strong>Linkedin</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
-- <strong>Portfolio</strong>: https://alejoguerraa.github.io/
+- <strong>Tecnologías principales</strong>: Java, JavaScript, Python  
+- <strong>Contacto</strong>: [guerra.alejoet36@gmail.com](mailto:guerra.alejoet36@gmail.com)
+- <strong>LinkedIn</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
+- <strong>Portafolio</strong>: https://alejoguerraa.github.io/
 
 ---
 
-## Tech Stack
+## Stack Tecnológico
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Interested in building practical and scalable applications with real-world impac
 <tr>
 <td align="center" width="200">
 
-### Languages
+### Lenguajes
 <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 
 </td>
@@ -40,7 +40,7 @@ Interested in building practical and scalable applications with real-world impac
 
 <td align="center" width="200">
 
-### Database
+### Base de Datos
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 </td>
@@ -56,14 +56,14 @@ Interested in building practical and scalable applications with real-world impac
 
 <td align="center" width="200">
 
-### Tools
+### Herramientas
 <img src="https://skillicons.dev/icons?i=git,postman,figma" />
 
 </td>
 
 <td align="center" width="200">
 
-### Additional
+### Adicional
 <img src="https://skillicons.dev/icons?i=arduino,unity" />
 
 </td>
@@ -71,16 +71,17 @@ Interested in building practical and scalable applications with real-world impac
 </table>
 
 </div>
+
 ---
 
-## Main projects
+## Proyectos principales
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### NextRead  
-Modern social platform for discovering and sharing books.
+Plataforma social moderna para descubrir y compartir libros.
 
 <p align="center">
   <img src="./nextread.png" width="90%" /><br>
@@ -92,7 +93,7 @@ Modern social platform for discovering and sharing books.
 <td width="50%" valign="top">
 
 ### IPVision  
-Network analysis tool for IP scanning and monitoring.
+Herramienta de análisis de red para escaneo y monitoreo de IPs.
 
 <p align="center">
   <img src="./ipvision.png" width="90%" /><br>
@@ -105,10 +106,8 @@ Network analysis tool for IP scanning and monitoring.
 
 ---
 
-## Activity
+## Actividad
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlejoGuerraa/AlejoGuerraa/output/pacman-contribution-graph.svg" />
 </p>
-
-
