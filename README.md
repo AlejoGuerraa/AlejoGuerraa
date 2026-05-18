@@ -4,14 +4,14 @@
 
 ## Sobre mí
 
-Estudiante de Informática enfocado en desarrollo backend y diseño de sistemas.  
-Interesado en construir aplicaciones prácticas y escalables con impacto real.
+Estudiante de Informática enfocado en desarrollo full-stack y diseño de sistemas.  
+Estoy muy interesado en seguir creciendo en el mundo IT, desarrollando aplicaciones utiles y escalables.
 
 - Actualmente trabajando en:  
   - [Knowbeat](https://github.com/Santino7537/Knowbeat) - Aplicación social y educativa de música <br> 
   - [TuBuffet](https://github.com/Renaaa189/TuBuffet) - Aplicación móvil y web para comercios de comida en escuelas
 
-- <strong>Tecnologías principales</strong>: Java, JavaScript, Python  
+- <strong>Tecnologías principales</strong>: Sql, JavaScript, Python  
 - <strong>Contacto</strong>: [guerra.alejoet36@gmail.com](mailto:guerra.alejoet36@gmail.com)
 - <strong>LinkedIn</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
 - <strong>Portafolio</strong>: https://alejoguerraa.github.io/
