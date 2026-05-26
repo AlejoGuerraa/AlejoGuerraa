@@ -15,15 +15,7 @@ Estoy muy interesado en seguir creciendo en el mundo IT, desarrollando aplicacio
 - <strong>Contacto</strong>: [guerra.alejoet36@gmail.com](mailto:guerra.alejoet36@gmail.com)
 - <strong>LinkedIn</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
 
-<strong>Conoce más acerca de mis trabajos en mi 
-  <a 
-    href="https://alejoguerra-portafolio.vercel.app/" 
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    Portafolio
-  </a>
-</strong>
+**Conoce más acerca de mis trabajos en mi [Portafolio](https://alejoguerra-portafolio.vercel.app/)**
 
 ---
 
