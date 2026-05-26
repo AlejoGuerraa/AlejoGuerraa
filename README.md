@@ -11,11 +11,19 @@ Estoy muy interesado en seguir creciendo en el mundo IT, desarrollando aplicacio
   - [Knowbeat](https://github.com/Santino7537/Knowbeat) - Aplicación social y educativa de música <br> 
   - [TuBuffet](https://github.com/Renaaa189/TuBuffet) - Aplicación móvil y web para comercios de comida en escuelas
 
-- <strong>Tecnologías principales</strong>: Sql, JavaScript, Python  
+- <strong>Tecnologías principales</strong>: Sql, JavaScript, React, Python  
 - <strong>Contacto</strong>: [guerra.alejoet36@gmail.com](mailto:guerra.alejoet36@gmail.com)
 - <strong>LinkedIn</strong>: https://www.linkedin.com/in/alejo-guerra-inf/
 
-<strong>Conoce mas acerca de mis trabajos en mi Portafolio </strong>: (https://alejoguerra-portafolio.vercel.app/)
+<strong>Conoce más acerca de mis trabajos en mi 
+  <a 
+    href="https://alejoguerra-portafolio.vercel.app/" 
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Portafolio
+  </a>
+</strong>
 
 ---
 
